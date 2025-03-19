@@ -12,7 +12,7 @@
       "url": "https://www.scootersoftware.com/"
     }
   ],
-  "icon": "./images/Logo.png",
+  "icon": "images/Logo.png",
   "license": "MIT",
   "repository": {
     "type": "git",
